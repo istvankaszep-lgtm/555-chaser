@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D10,D6,D8,D1,D11,D5,D9,D2,D7,D4";"LED_D5.0mm";11;"LED";"https://www.digikey.com/en/products/detail/liteon-inc/LTL-4221N/224266";;
+2;"U1";"DIP-16_W7.62mm";1;"4017";"https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67246";;
+3;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";"https://www.digikey.com/en/products/detail/sullins-connector-solutions/PRPC002SAAN-RC/2775214";;
+4;"R3,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"R150";"https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-150R/12576";;
+5;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"R10k";"https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/12613";;
+6;"U2";"DIP-8_W7.62mm";1;"NE555P";"https://www.digikey.com/en/products/detail/texas-instruments/NE555P/277057";;
+7;"C1";"C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal";1;"C_Small_US";"https://www.digikey.com/en/products/detail/kemet/C315C104K5R5TA7301/3727931";;
